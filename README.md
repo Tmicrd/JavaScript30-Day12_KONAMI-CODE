@@ -1,0 +1,1 @@
+# JavaScript30-Day12_KONAMI-CODE
